@@ -1,0 +1,22 @@
+Dari Kelvin --
+C = K - 273,15
+F = K.1,8 -459,67
+Re = (K -273,15) X O,8
+
+Dari Celcius --
+K = C + 273,15
+F = C x 1,8 + 32
+Re = C x 0,8
+
+Dari Fahrenheit--
+K = (F + 459,67)/1,8
+C = (F - 32) / 1,8
+Re = (F-32) / 2,25
+
+Dari Reamur--
+K = Re / 0,8 + 273,15
+C = Re / 0,8
+F = Re x 2,25 + 32
+
+
+Ya Ndak Tau Kok Tanya Saya
